@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">bdsqllite</string>
+    <string name="tvtitulo">Registro de usuarios</string>
+    <string name="etdocumento">DOCUMENTO</string>
+    <string name="etusuario">USUARIO</string>
+    <string name="etnombres">NOMBRES</string>
+    <string name="etapellidos">APELLIDOS</string>
+    <string name="etcontra">CONTRASEÑA</string>
+    <string name="btnregistrar">Registrar</string>
+    <string name="btnbuscar">Buscar</string>
+    <string name="btnlistarRegistros">Listar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="tvEditar">Editar usuario</string>
+    <string name="documento_info">Nota: El número de documento no se puede modificar en el futuro.</string>
+    <string name="hintBuscador">Buscar por nombre o usuario.</string>
+    <string name="tvLista">Selecciona un usuario para editar o eliminar</string>
+</resources>
